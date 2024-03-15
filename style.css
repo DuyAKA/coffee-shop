@@ -1,0 +1,148 @@
+.navbar-brand {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 1500px;
+    margin-left: 50px;
+}
+
+.nav-link{
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.custom-navbar{
+    background-color:beige;
+}
+
+.c-img{
+    height: 630px;
+    object-fit:cover;
+    filter: brightness(0.6);
+}
+
+.caption1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.time-establish{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.getstarted-button{
+    margin-top: 100px;
+}
+
+.c-slide2{
+    margin-top: 200px;
+}
+
+.cslide2-button{
+    margin-top: 80px;
+}
+
+.flag-icon{
+    width: 30px;
+    height: 30px;
+}
+
+.welcome{
+    text-align: center;
+    margin-top: 3%;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    -webkit-text-fill-color:saddlebrown;
+    -webkit-text-stroke: 2px burlywood;
+}
+
+.aboutus-picture {
+    height:auto;
+    max-width: 40%; 
+    margin-left: 5%;
+    margin-top: 3%;
+    filter: brightness(0.8);
+}
+
+.aboutus-container{
+    display: flex;
+}
+
+.aboutus-text{
+    text-align: center; 
+    align-self:self-start; 
+    width: 60%;
+    padding: 100px;
+}
+
+.aboutus-text1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    -webkit-text-fill-color: darkorange;
+    -webkit-text-stroke: 1px indianred;
+}
+
+.aboutus-text2{
+   margin-top: 8%;
+   font-family:cursive;
+   word-spacing: 1px;
+}
+
+.pp-container{
+    display: flex;
+}
+
+.pp-picture{
+    height:auto;
+    max-width: 40%; 
+    margin-right: 5%;
+    margin-top: 3%;
+    filter: brightness(0.8);
+}
+
+.pp-text{
+    text-align: center; 
+    align-self:self-start; 
+    width: 60%;
+    padding: 100px;
+}
+.pp-text1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    -webkit-text-fill-color: darkorange;
+    -webkit-text-stroke: 1px indianred;
+}
+
+.pp-text2{
+    margin-top: 8%;
+    font-family:cursive;
+    word-spacing: 1px;
+}
+
+.hot-picks{
+    text-align: center;
+    margin-top: 3%;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    -webkit-text-fill-color:black;
+    -webkit-text-stroke:2px chocolate;
+    text-decoration-line: underline;
+}
+
+.specialities{
+    text-align: center;
+    margin-top: 5%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    -webkit-text-fill-color:black;
+    -webkit-text-stroke:2px brown;
+}
+
+.card-title1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    -webkit-text-fill-color:peru;
+}
+
+.card-text{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.card-title2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    -webkit-text-fill-color:lightcoral;
+}
